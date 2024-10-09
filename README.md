@@ -2,13 +2,11 @@
     <img src="./assets/mybanner.svg" alt="Banner" width="100%"/>
 </div>
 
----  
 
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
 <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
 
-<img src="./assets/mockup-group-1.svg">
-<img src="./assets/mockup-group-2.svg">
+<img src="./assets/mockup-group-1.svg"><img src="./assets/mockup-group-2.svg">
 
 ### 📖 About
 
