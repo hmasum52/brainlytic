@@ -7,6 +7,10 @@
 <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version"> <img src="https://img.shields.io/badge/Platform-Android-green.svg" alt="Platform">
 
 
+https://github.com/user-attachments/assets/dcda7239-14fc-439e-8b84-fc4379dba3f0
+
+
+
 <img src="./assets/mockup-group-1.svg">
 <img src="./assets/mockup-group-2.svg">
 
